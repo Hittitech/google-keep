@@ -1,0 +1,42 @@
+
+.card{
+    background: transparent;
+    width: 300px;
+    margin: 30px;
+    height: 150px;
+    border: none;
+    box-shadow: 10px 10px 10px rgb(176, 174, 174);
+    font-weight: 600;
+    color: rgb(78, 77, 77);
+   
+}
+.card .title{
+    font-size: 1rem;
+    
+    margin-bottom: 25px;
+}
+.icon{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    text-align: end;
+}
+
+.icon{
+    color: orange;
+  /* background-color: rgb(249, 166, 32); */
+  border: none;
+  /* border-radius: 30%; */
+  width: 1.5rem;
+  text-align: center;
+  
+  margin-top: 10%;
+  margin-left: 85%;
+  font-size: 1.5rem;
+  
+  /* margin-right: 10px; */
+  /* position: relative;
+  left: 285px;
+  top: 5px; */
+  cursor: pointer;
+}
